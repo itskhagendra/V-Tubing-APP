@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnimoScene.unity
+    guid: e2608bd3a8566ec42be941ba8642dc80
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3ed0133c3edeb6f4a840a6bc04e4cdc0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e1b9e24489e18341bc7b093ceb64e44, type: 2}
